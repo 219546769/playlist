@@ -14,34 +14,35 @@ h1 {
     padding: 25px 0px;
 }
 
-#images img {
+#image img {
     display: block;
     height: 100px;
-    width: auto;
+    width: 100px;
     margin: 20px;
 }
 
-#songs p {
+#song p {
+    display:block;
     font-size: 18px;
     height: 100px;
     font-weight: bold;
     margin: 20px;
 }
 
-#artists p {
+#artist p {
     font-size: 18px;
     height: 100px;
     margin: 20px;
 }
 
-#lengths p {
+#length p {
     font-size: 16px;
     height: 100px;
     margin: 20px;
     text-align: right;
 }
 
-#links a {
+#link a {
     display: block;
     font-size: 18px;
     height: 100px;
